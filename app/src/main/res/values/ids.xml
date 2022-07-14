@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ednama" type="id" />
+    <item name="ednim" type="id" />
+    <item name="edtugas" type="id" />
+    <item name="edhadir" type="id" />
+    <item name="eduts" type="id" />
+    <item name="eduas" type="id" />
+    <item name="edakhir" type="id" />
+    <item name="edhuruf" type="id" />
+    <item name="bthitung" type="id" />
+</resources>
